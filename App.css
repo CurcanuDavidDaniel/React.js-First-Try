@@ -1,0 +1,11 @@
+.NavBar{
+  position: fixed;
+}
+
+
+.content {
+  margin:auto;
+  width: 100%;
+  align-content: center;
+}
+

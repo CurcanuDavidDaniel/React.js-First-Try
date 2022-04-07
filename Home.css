@@ -1,0 +1,18 @@
+.homeDesign{
+    margin: auto;
+    height: 715px;
+    width: 100%;
+    background: url('./bg.jpg');
+    background-size: cover;
+    color: black;
+}
+
+.info{
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 400px;
+    height: 300px;
+    width: 700px;
+    background:gray;
+    opacity: .3;
+}
